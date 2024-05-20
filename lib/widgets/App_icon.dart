@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:food_delivery/utils/dimensions.dart';
 
 class AppIcon extends StatelessWidget {
-  final IconData icon;
+  final IconData dart;
   final Color backgroundColor;
   final Color iconColor;
   final double size;
