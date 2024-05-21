@@ -14,5 +14,4 @@ class AppColors {
   // static final color yellowColor = const color (0xFFfa7552);
   static const Color yellowColor = Color(0xFFffd379);
   static const Color fontColor = Color.fromARGB(255, 70, 68, 64);
-  static const Color
 }
