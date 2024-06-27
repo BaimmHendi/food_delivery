@@ -187,7 +187,7 @@ class _FoodPageBodyState extends State<food_page_body> {
                                     icon: Icons.circle_sharp,
                                     text: "Normal",
                                     iconColor: AppColors.iconColor1,
-                                    textcolor: AppColors.fontColor),
+                                    textcolor: AppColors.mainBlackColor),
                                 IconAndTextWidgets(
                                     icon: Icons.location_on,
                                     text: "1.3Km",
